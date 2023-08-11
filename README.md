@@ -1,1 +1,1 @@
-# Salary-prediction-using-pipeline-and-random-forests-model-including-country-factor
+# Salary-prediction-using-pipeline-and-random-forests-model-including-country-factor![rafay_](https://github.com/khizii/Salary-prediction-using-pipeline-and-random-forests-model-including-country-factor/assets/137616658/2f02b1a6-212b-4a98-8757-fef36b3c951e)
